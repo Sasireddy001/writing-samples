@@ -1,6 +1,3 @@
-
-
-
 # Beginner’s Guide to APIs with Examples
 
 APIs are one of the most important concepts in modern software development.  
